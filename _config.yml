@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 name: Bronson Zhou
 title: Welcome to Bronson's homepage.
 description: Work in progres. Stay tuned!
-markdown: kramdown % not sure what markdown is lol %
+markdown: kramdown
