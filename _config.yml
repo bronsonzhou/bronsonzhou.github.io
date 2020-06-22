@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 name: Bronson Zhou
 title: Welcome to Bronson's homepage.
-description: Work in progres. Stay tuned!
+description: Work in progress. Stay tuned!
 permalink: /blog/:year/:month/:day/:title
